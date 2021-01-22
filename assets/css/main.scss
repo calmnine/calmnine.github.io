@@ -26,8 +26,8 @@
     --post_date: #003845;
     --post_text: #4c4c4c;
     --post_h3: #4c4c4c;
-    --post_link: #46a891;
-    --post_link_hover: #87CDBD;
+    --post_link: #ffc800;
+    --post_link_hover: #ffe380;
     --inlinecode_text: #FFAA00;
     --blockquote: #333;
     --footer_font: #858585;
@@ -111,7 +111,7 @@ body {
     height: 100%;
     font-weight: normal;
     font-style: normal;
-    font-family: -apple-system, BlinkMacSystemFont, 'Titillium Web', "Segoe UI","애플 SD 산돌고딕 Neo", Roboto, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: -apple-system, BlinkMacSystemFont, 'Titillium Web', "Segoe UI","Noto Sans KR", Roboto, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     margin: 0;
     padding: 0;
     background-color: var(--bg_color);
