@@ -138,11 +138,11 @@ img {
 }
 
 .content {
-    margin: 1.4em auto;
+    margin: 4em auto;
     z-index: 0;
     background: var(--content_bg);
     position: relative;
-    min-height: 100%;
+    min-height: 85%;
     border-radius: 15px;
     box-shadow: 0 0 2px 2px var(--shadow_color);
     padding-bottom: 2rem;
