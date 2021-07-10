@@ -4,5 +4,5 @@ categories: [Statistics]
 comments: true
 ---
 
-##### 작성중
-<!-- 공부하기 싫다 -->
+<h6 align="center"> Introduction to Statistical Learning </h6> 
+
