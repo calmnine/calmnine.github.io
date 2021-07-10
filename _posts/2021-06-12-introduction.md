@@ -3,12 +3,6 @@ title: 1. Introduction
 categories: [Statistics]
 comments: true
 ---
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({            
-            tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}            
-        });
-</script>  
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
     
 <h4 align="center"> Introduction to Statistical Learning </h4> <br><br>
 
