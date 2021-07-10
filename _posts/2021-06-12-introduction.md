@@ -4,7 +4,7 @@ categories: [Statistics]
 comments: true
 ---
     
-<h4 align="center"> Introduction to Statistical Learning </h4> <br><br>
+<h4 align="center"> Introduction to Statistical Learning </h4> <br>
 
 <div align="center" style="font-size:14px;">
   <p style="font-weight:600;"> Chapter 2. Statistical Learning</p>
